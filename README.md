@@ -5,7 +5,7 @@ DataStage is an ETL tool which is used to Extract the data from different data s
 
 - #### Three components comprise the DataStage client: DataStage Administrator, DataStage Designer, DataStage Director.
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/IMPS.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/IMPS.PNG)
 
 
 - ## RESPONSIBILITIES FOR Datastage Administrator:
@@ -19,19 +19,19 @@ The DataStage Designer is the primary interface to the metadata repository and p
 - ## RESPONSIBILITIES FOR Datastage Director:
 DataStage Director has three view options: The Status view displays the status, date and time started, elapsed time, and other run information about each job in the selected repository category. The Schedule view displays job scheduling details. The Log view displays all of the events for a particular run of a job.
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/DIRECTOR_CLIENT.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/DIRECTOR_CLIENT.PNG)
 
 
 - ## Oracle connector 
 Oracle connector  is used to access Oracle database systems and perform various read, write, and load functions. Setting required user privileges.
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/ORACLE_DATA_CONN.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/ORACLE_DATA_CONN.PNG)
 
 
 - ## Parameter sets 
 Parameter sets enable you to expose different parameters to the user. And, to return different information based on the parameters specified by the user. You can only use one parameter set at a time.
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/GLOBAL_PARAMETER.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/GLOBAL_PARAMETER.PNG)
 
 
 ########################################################################################
@@ -59,32 +59,32 @@ EXECUTE_COMMANDS
 
 ### - ( 1 ) Requirement: SOURCE  -->  TARGET
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB1_SCHEMA.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB1_SCHEMA.PNG)
 
 ### Implementation:
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB1_UI.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB1_UI.PNG)
 
 
 
 ### - ( 2 ) Requirement: SOURCE  -->  TARGET
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB2_SCHEMA.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB2_SCHEMA.PNG)
 
 ### Implementation:
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB2_UI.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB2_UI.PNG)
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB2_UI_CONTAINER.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB2_UI_CONTAINER.PNG)
 
 
 ### - ( 3 ) Requirement: SOURCE  -->  TARGET
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB3_SCHEMA.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB3_SCHEMA.PNG)
 
 ### Implementation:
 
-![alt text](https://github.com/mohitkm2302/Datastage_Project/blob/main/PROJECT/pics/JOB3_UI.PNG)
+![alt text](https://github.com/akshayfuturensetech/Datastage_Project/blob/main/PROJECT/pics/JOB3_UI.PNG)
 
 ### - ( 4 ) Requirement: SOURCE  -->  TARGET
 
