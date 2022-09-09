@@ -210,5 +210,3 @@ Sequence job, that you use to specify a sequence of parallel jobs or server jobs
 
 
 
-
-## Made with 💖 & 🔥 by MKM.
